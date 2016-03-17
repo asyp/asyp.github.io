@@ -1,0 +1,123 @@
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+/******************************************
+/* HEADER
+/*******************************************/
+
+header {
+  background: #054D50;
+  padding: 5px 0;
+  overflow: hidden;
+}
+
+#logo {
+  margin: 10px;
+  border-radius: 5px;
+}
+
+header nav {
+  float: right;
+  margin-top: 35px;
+  margin-right: 5px;
+  height: 50px;
+}
+header nav ul li {
+  display: inline-block;
+  margin: 0 0 0 40px;
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+header nav ul li a {
+  color: #f9e42e;
+}
+
+.nav ul li a {
+  color: white;
+  background-color: #840a07;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.nav ul li a:hover {
+  background-color: orange;
+}
+
+
+/******************************************
+/* MAIN
+/*******************************************/
+
+
+.key{
+  height: 550px;
+  background-image: url("images/gap.png");
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.key .title1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10%;
+  color: #840a07;
+  text-shadow: 1px 1px #ffffff;
+  }
+
+.title2{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  text-align: center;
+  color: #840a07;
+  text-shadow: 1px 1px #ffffff;
+  }
+
+.date{
+  color:#840a07;
+  font-family: 'Droid Sans', sans-serif;
+  font: bold;
+  font-size: 80px;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  text-shadow: 1px 1px #ffffff;
+}
+
+.forms{
+  width: 250px;
+  padding-top: 30px;
+  margin: auto;
+  color: #840a07;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+
+footer {
+  background: #840a07;
+  padding: 25px 0 5px;
+  text-align: center;
+}
+footer .logo {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 18px;
+}
+footer ul li {
+  display: inline-block;
+  list-style: none;
+  margin: 0 26px 40px;
+}
