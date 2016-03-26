@@ -38,53 +38,40 @@ header nav ul li a {
   background-color: orange;
 }
 
-.events{
-  max-height: 800px;
-  max-width: 95%;
-  width: 100%;
-  margin: 10px auto;
+.donate{
+  height: 400px;
+  background-image: url("../images/donate.jpeg");
+  margin: 0 auto;
   overflow: hidden;
 }
 
-
-h3{
-  font-family: 'Lato', sans-serif;if;
-  font-size: 40px;
+.donation{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 45px;
+  font-weight: bold;
   text-align: center;
-  color: #ff7627;
+  margin-top: 10%;
+  color: #840a07;
+  text-shadow: 1px 1px #ffffff;
+  }
+
+.button{
+  text-align: center
 }
 
-p{
-  font-family: 'Lato', sans-serif;if;
-  font-size: 20px;
-  color: #aaaaaa;
-  font: bold;
-  padding: 10px;
-}
-
-.event{
-  font-family: 'Montserrat', Helvetica, Arial, sans-serif;
-  font-size: 40px;
-  text-align: left;
-  color: #ff7627;
-  margin-bottom: 70px;
-}
-
-.photos{
+.action{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 35px;
+  font-weight: bold;
   text-align: center;
+  margin-top: 15px;
+  color: #840a07;
 }
-
-.pic{
-  display: inline-block;
-  margin: 20px 45px 15px 45px;
-  max-width: 40%;
-}
-
 
 footer {
   background: #840a07;
   padding: 25px 0 5px;
-  text-align: center;cat
+  text-align: center;
 }
 footer .logo {
   color: white;

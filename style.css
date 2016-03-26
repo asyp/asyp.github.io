@@ -91,7 +91,7 @@ header nav ul li a {
   text-shadow: 1px 1px #ffffff;
 }
 
-.forms{
+/*.forms{
   width: 250px;
   padding-top: 30px;
   margin: auto;
@@ -102,7 +102,14 @@ header nav ul li a {
   line-height: 30px;
   margin-bottom: 30px;
 }
+*/
 
+#wufoo-mpjcmoj0o5vz5g{
+    max-width: 600px;
+    text-align: center;
+    padding-left: 30%;
+    padding-top: 20px;
+}
 
 footer {
   background: #840a07;

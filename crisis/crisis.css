@@ -80,14 +80,14 @@ h3{
   font-size: 20px
 }
 
-p{
-  font-family: 'Montserrat', Helvetica, Arial, sans-serif;
-  font-size: 20px;
-  color: #aaaaaa;
-  font: bold;
-  padding: 10px;
+.link{
+  text-align: center;
+  color: #ff7627;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  padding-bottom: 10px;
 }
-
 
 footer {
   background: #840a07;
